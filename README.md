@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://handsondataviz.github.io/Geogeo/
+- Leaflet Map https://popolino.github.io/Geogeo/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1jbLTnQtoI9_8Tcul8I8d_rOtFUm77JrIuKQZcaSW36M/edit#gid=0
 
 ## Create Your Own
